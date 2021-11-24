@@ -1,5 +1,5 @@
 # Data Science -Methods-and-pre-techniques
-It contains and covers most of the techniques that can be and used in most of the machine learning , Data Analytics and Data Analysis . It consist of including Regressions , Classifiers and insightful algorithms that can used in many data functionalities.
+It contains and covers most of the techniques that can be and used in most of the machine learning , Data Analytics and Data Analysis . It consist of including Regressions , Classifiers , Clusters , Support Vector Machine(SVMs), K Nearest Neighbour Algorithm(KNN)and there are some more techniques in this repository. Insightful algorithms that can used in many data functionalities.
 
 Some classification techniques, such as decision trees, SVMs and neural networks, can also be used to do regressions.
 
