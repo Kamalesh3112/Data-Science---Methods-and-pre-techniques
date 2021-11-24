@@ -5,4 +5,4 @@ Some classification techniques, such as decision trees, SVMs and neural networks
 
 In this Google Colab notebook , it may contain some errors but the cells will be look good if runned again from the initial cell according to the algorithms used in this environment.
 
-I have uploaded some portable documents about Data Science and also with an Image file that tells the comparison between Data Science and Data Analy
+I have uploaded some portable documents about Data Science and also with an Image file that tells the comparison between Data Science and Data Analytics.
